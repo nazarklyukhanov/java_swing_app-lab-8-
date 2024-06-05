@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<collection>
+	<musicbands>
+		<musicband id="1993228" name="ITMO" coordinates_x="1.0" coordinates_y="1.0" creationDate="2024-05-13T18:54:40.501792200" numberOfParticipants="12" albumsCount="21" genre="PROGRESSIVE_ROCK" label_sales="21"/>
+		<musicband id="1000317" name="LETI" coordinates_x="1.0" coordinates_y="1.0" creationDate="2024-05-13T18:54:57.981243100" numberOfParticipants="223" albumsCount="321" genre="JAZZ" label_sales="312"/>
+		<musicband id="8067928" name="HH" coordinates_x="5.0" coordinates_y="5.0" creationDate="2024-05-13T18:55:55.814734300" numberOfParticipants="1231" albumsCount="3" genre="JAZZ" label_sales="321"/>
+	</musicbands>
+</collection>
