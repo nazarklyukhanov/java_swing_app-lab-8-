@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<collection>
+	<musicbands>
+		<musicband id="1" name="ITMO" coordinates_x="0.0" coordinates_y="0.0" creationDate="2024-04-18T21:09:08.456053400" numberOfParticipants="11" albumsCount="11" genre="JAZZ" label_sales="121212"/>
+		<musicband id="7609818" name="111" coordinates_x="0.0" coordinates_y="0.0" creationDate="2024-05-02T21:06:30.102892700" numberOfParticipants="213" albumsCount="123" genre="PROGRESSIVE_ROCK" label_sales="123"/>
+	</musicbands>
+</collection>
